@@ -62,3 +62,5 @@ lab 6: File management
 ![alt text](Os-Lab6.JPG)
 codesspace screenshot 
 
+![alt text](Os-Lab6.2.JPG)
+codesspace screenshot 
