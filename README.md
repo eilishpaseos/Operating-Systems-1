@@ -5,7 +5,7 @@ The first repository that I will use to learn Git commands
 codesspace screenshot
 
 
-Lab 3:
+Lab 3: Encryption Key
 
 mQINBGP/RTgBEACdGMyMjwXqC8NH32W9//5aFdqXlCbcjYZMHw4kXNv6h99zE97z
 HkIKw8vWmr3+p5w+2VUhuvLg0d08Cw5eTlVJ14Jb9zAFSWLMjaodkr61xB6xkc+g
@@ -56,3 +56,9 @@ tqH6M+ELon1yvcHRw3WuZa6IPN2UYXX0uJZ70ZWDAJM0sxoSEG9XnvL3Aj76A3Fn
 axEX/TmIuO4rzEgEb7sR0wjKnCO26cd6l5inW5e3qaKYY/SczMYjK00dMri/BYqv
 OZZpcQSi/owoai4ofX+G
 =2QoF
+
+lab 6: File management
+
+![alt text](Os-Lab6.jpg)
+codesspace screenshot 
+
