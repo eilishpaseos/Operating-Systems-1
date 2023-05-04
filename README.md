@@ -59,6 +59,6 @@ OZZpcQSi/owoai4ofX+G
 
 lab 6: File management
 
-![alt text](Os-Lab6.jpg)
+![alt text](Os-Lab6.JPG)
 codesspace screenshot 
 
