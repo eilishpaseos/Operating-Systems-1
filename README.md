@@ -64,3 +64,8 @@ codesspace screenshot
 
 ![alt text](Os-Lab6.2.JPG)
 codesspace screenshot 
+
+
+lab 6: System Report
+
+[Download systemStats.txt](https://raw.githubusercontent.com/eilishpaseos/Operating-Systems-1/main/systemStats.txt)
